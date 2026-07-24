@@ -5,7 +5,7 @@ module.exports = {
   slidesDir: 'slides',
 
   slides: [
-    'index.html',
+    'cover.html',
   ],
 
   labels: [
