@@ -1,6 +1,6 @@
 # test-deck
 
-A [fslides](https://github.com/bahaaldine/fuckslides) presentation. Every slide is an HTML file in `slides/` — edit them like code.
+A [fslides](https://github.com/fslides/fslides) presentation. Every slide is an HTML file in `slides/` — edit them like code.
 
 **Watch it:** https://bahaaldine.github.io/test-deck/ (deployed automatically on every push to `main`)
 
